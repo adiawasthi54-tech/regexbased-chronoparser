@@ -33,6 +33,3 @@ Times are written as H:MM followed by am or pm (for example "5:30pm"). If neithe
 - Return a `datetime` object instead of printing, so the parser can be tested and reused.
 - Add a test file with input and expected-output pairs.
 
-## Notes
-
-Written as a first-year student project. I used Claude to help debug some of the regex errors while building it.
